@@ -1,3 +1,5 @@
+![JJGraphDatabase logo] (https://github.com/cesarmarinhorj/JJGraphDatabase/blob/master/JJ_Graph_Framework.png) JJGraphDatabase logo
+
 # JJGraphDatabase
 Estudos em Graph Database
 
