@@ -1,4 +1,4 @@
-![JJGraphDatabase logo](https://github.com/cesarmarinhorj/JJGraphDatabase/blob/master/JJ_Graph_Framework.png) JJGraphDatabase logo
+![JJGraphDatabase logo](JJ_Graph_Framework.png)
 
 # JJGraphDatabase
 Estudos em Graph Database
@@ -14,6 +14,8 @@ Aa grandes vantagens que encontrei foram:
   . permitir uma modelagem muito rápida e eficiente
   . abstração do modelo muito mais próxima à realidade
   
+ 
+ ![modelo](grafo_v4-simplificado.png)
  
  # Contatos
  Cesar Marinho 
