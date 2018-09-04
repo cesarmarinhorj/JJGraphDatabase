@@ -18,6 +18,12 @@ Aa grandes vantagens que encontrei foram:
  
  ![modelo](grafo_v4-simplificado.png)
  
+ # Exemplos
+  A modelagem é bem diferente da tradicional, mas é muito mais rica. Abaixo um TODO. Nele coloquei duas coisas além do "todo" e "done", que são "after" e "important". O modelo vai evoluindo de forma muito simples. 
+ 
+ ![TODO](conceptmap_todo.png)
+ 
+ 
  # Contatos
  Cesar Marinho 
  cesarmarinhorj@gmail.com
